@@ -3,6 +3,9 @@
   "displayName": "Vibrant Pink",
   "description": "A vibrant syntax with a pink highlight.",
   "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/BackwardsUser/vibrant-pink"
+  },
   "engines": {
     "vscode": "^1.86.0"
   },
