@@ -1,0 +1,4 @@
+node_modules
+*.vsix
+vsc-extention-quickstart.md
+CHANGELOG.md

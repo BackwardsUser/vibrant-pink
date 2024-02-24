@@ -1,0 +1,21 @@
+{
+  "name": "vibrant-pink",
+  "displayName": "Vibrant Pink",
+  "description": "A vibrant syntax with a pink highlight.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vibrant Pink",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Vibrant Pink-color-theme.json"
+      }
+    ]
+  }
+}
